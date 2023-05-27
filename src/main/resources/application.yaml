@@ -1,0 +1,3 @@
+app:
+  host: http://pastbox.mnemalotebya.ru
+  public_list_size: 10
